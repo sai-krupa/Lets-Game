@@ -1,6 +1,6 @@
 # Gaming Behavioral Matchmaking System
 ## Demo
-Presentation: https://github.com/sai-krupa/Online-Gaming-Behavioral-Matching-System/blob/main/LetsGame.pptx
+Presentation: https://github.com/sai-krupa/Lets-Game/blob/main/LetsGame.pptx
 
 ## Team Name: ES 2021
 ### Team Members:             
