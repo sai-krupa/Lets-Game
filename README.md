@@ -1,6 +1,6 @@
 # Gaming Behavioral Matchmaking System
-## Working Prototype
-Prototype URL: https://ksuletsgame.azurewebsites.net/
+## Demo
+Presentation: https://github.com/sai-krupa/Online-Gaming-Behavioral-Matching-System/blob/main/LetsGame.pptx
 
 ## Team Name: ES 2021
 ### Team Members:             
